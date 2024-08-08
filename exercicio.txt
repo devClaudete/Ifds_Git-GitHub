@@ -5,3 +5,10 @@ de um aluno que estuda semestralmente e exiba
 o resultado.
 
 Resposta
+
+programa CalculoMedia
+var 
+nota1: real 
+nota2: real
+media: real
+
