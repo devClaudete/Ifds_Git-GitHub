@@ -1,0 +1,7 @@
+1o. Problema
+
+1. Crie um algoritmo para calcular a média
+de um aluno que estuda semestralmente e exiba
+o resultado.
+
+Resposta
